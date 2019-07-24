@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-mocha-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaraTersi/nodejs-mocha-example.git"
+  },
+  "author": "Clara Tersi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaraTersi/nodejs-mocha-example/issues"
+  },
+  "homepage": "https://github.com/ClaraTersi/nodejs-mocha-example#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
